@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from Switzerland 🇨🇭</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=TypeScript+%7C+Vue+%7C+React+%7C+Symfony+%7C+Docker+%7C+Kubernetes;Always+learning+something+new..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=TypeScript+%7C+Vue+%7C+React+%7C+Symfony+%7C+DevOps+%7C+Kubernetes;Building+great+things+with+clean+code+and+containers" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,21 +24,27 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 📦 Containers & DevOps
+### 🛠 DevOps, CI/CD & VCS
+<p align="left">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-554488?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+### 📦 Containers & Orchestration
 <p align="left">
   <img src="https://img.shields.io/badge/Podman-892ca0?style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-### 🔧 Tools & Workflow
+### 🖥 Operating Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-GitLab_Pipelines-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 🌱 Other Experience
+### 🧠 Other Experience
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -49,9 +55,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francesco070&show_icons=true&theme=radical" alt="Francesco070 stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Francesco070&show_icons=true&theme=radical" alt="Francesco's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francesco070&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francesco070&theme=radical" alt="GitHub Streak" />
 </p>
+
