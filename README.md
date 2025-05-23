@@ -55,10 +55,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francesco070&show_icons=true&theme=radical" alt="Francesco's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco070&theme=aura&layout=pie" alt="Francesco's GitHub Lang" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francesco070&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Francesco070&show_icons=true&theme=aura" alt="Francesco's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francesco070&theme=aura" alt="Francesco's GitHub Streak" />
 </p>
 
