@@ -1,76 +1,71 @@
-<h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">Full Stack Developer from Switzerland 🇨🇭</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=TypeScript+%7C+Vue+%7C+React+%7C+Symfony+%7C+DevOps+%7C+Kubernetes;Building+great+things+with+clean+code+and+containers" alt="Typing SVG" />
-</p>
+# Francesco Palazzo
 
----
+**Software & DevOps Engineer** · Graubünden, Switzerland 🇨🇭
 
-## 🚀 Tech Stack
+I design and operate cloud-native infrastructure and build modern web applications.<br/>
+My own Kubernetes cluster runs on Gardener, and everything on it ships with GitOps.
 
-### 💻 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-frnc.cloud-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://frnc.cloud)
+[![OnlyMCP](https://img.shields.io/badge/Building-OnlyMCP-d9a876?style=flat-square)](https://only-mcp.com)
+[![Email](https://img.shields.io/badge/Email-f.palazzo%40frnc.cloud-2563eb?style=flat-square)](mailto:f.palazzo@frnc.cloud)
+[![Status](https://img.shields.io/badge/Cluster-status%20page-16a34a?style=flat-square&logo=uptimekuma&logoColor=white)](https://status.frnc.dev/status/francesco)
 
-### 🧠 Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+</div>
 
-### 📚 Database
-<p align="left"> 
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-</p>
+## About me
 
-### 🛠 DevOps, CI/CD & VCS
-<p align="left">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-554488?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
+I'm an application development apprentice (EFZ) at **Exigo AG**, where I build Kubernetes platforms, GitOps workflows
+and Symfony backends. Outside of work I run my own cluster as a real-world playground: I self-host applications, try
+new tools and refine my DevOps workflows there. I believe reproducible automation and good tooling are the foundation
+of reliable systems, and I care about developer experience as much as about the systems underneath.
 
-### 📦 Containers & Orchestration
-<p align="left">
-  <img src="https://img.shields.io/badge/Podman-892ca0?style=for-the-badge&logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+## Currently building: OnlyMCP
 
-### 🖥 Operating Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<a href="https://only-mcp.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://only-mcp.com/brand/logo-primary-dark.svg">
+    <img src="https://only-mcp.com/brand/logo-primary-light.svg" width="220" alt="OnlyMCP">
+  </picture>
+</a>
 
-### 🧠 Other Experience
-<p align="left">
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
+**[OnlyMCP](https://only-mcp.com)** keeps your skills, agent definitions and markdown memory in the cloud, the same
+in every MCP client on every device: Claude, ChatGPT, Cursor and more.
 
----
+- **Memory:** read, write, search and link markdown notes from any client
+- **Skills and agents:** kept once, loaded when a conversation needs them
+- **Gateway:** connect your other remote MCP servers once and reach their tools through one connection
 
-## 📈 GitHub Stats
+[Website](https://only-mcp.com) · [Docs](https://only-mcp.com/docs) ·
+[Issues and releases](https://github.com/Francesco070/onlymcp-community) · `npx onlymcp`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francesco070&theme=aura&layout=pie" alt="Francesco's GitHub Lang" />
-</p>
+## Selected projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francesco070&show_icons=true&theme=aura" alt="Francesco's GitHub stats" />
-</p>
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [brainvault-cc](https://github.com/Francesco070/brainvault-cc) | Claude Code plugin that turns an Obsidian vault into a persistent, structured AI memory | Bash, Claude Code |
+| [frnc.cloud](https://frnc.cloud) | My portfolio, with a live view of the cluster it runs on | Next.js, React Three Fiber, Tailwind |
+| [Cluster](https://frnc.cloud/#cluster) | ArgoCD app-of-apps with Renovate staging, External Secrets, Harbor and self-hosted apps | Kubernetes, ArgoCD, Helm |
+| [JF-NutriScan](https://github.com/Francesco070/JF-NutriScan) | Team project: a mobile app that scans food barcodes and rates products with the Nutri-Score | Vue 3, Capacitor, Hono, Prisma |
+| [chat_app](https://github.com/Francesco070/chat_app) | TCP chat server with channels | Elixir, Docker |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francesco070&theme=aura" alt="Francesco's GitHub Streak" />
-</p>
+## Tech stack
 
+| Area | Tools |
+| --- | --- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,php,elixir,java" alt="TypeScript, JavaScript, PHP, Elixir, Java"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,threejs,vite" alt="Vue, React, Next.js, Tailwind, Three.js, Vite"/> |
+| **Backend and data** | <img src="https://skillicons.dev/icons?i=symfony,nodejs,postgres,mysql,mongodb" alt="Symfony, Node.js, PostgreSQL, MySQL, MongoDB"/> |
+| **Platform** | <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,gitlab,nginx,nix,linux" alt="Kubernetes, Docker, GitHub Actions, GitLab, nginx, NixOS, Linux"/><br/>ArgoCD · Helm · Harbor · Gardener · Talos · Cilium |
+
+## Experience
+
+- **Exigo AG** · Application development apprentice (EFZ) · 2023 to today<br/>
+  Kubernetes platforms on Talos, OpenStack and VMware, GitOps workflows, Symfony backends
+- **frnc.cloud** · Self-hosted cluster operator · 2024 to today<br/>
+  A Gardener-managed Kubernetes cluster with Harbor, ArgoCD, Nextcloud, Jellyfin and Vaultwarden, all GitOps
+
+<div align="center">
+<sub>More about me, my projects and my cluster on <a href="https://frnc.cloud">frnc.cloud</a></sub>
+</div>
